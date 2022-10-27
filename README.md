@@ -10,6 +10,7 @@ We also used HvPlot to make visualizations for our models and predictions.
 
 
 ### Pictures of LexBot
+![image](https://user-images.githubusercontent.com/1554573/198415496-7d3d1b8e-e2a1-4249-861e-2b60285fb472.png)
 
 
 
