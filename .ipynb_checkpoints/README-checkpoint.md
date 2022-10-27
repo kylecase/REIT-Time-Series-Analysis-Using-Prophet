@@ -12,6 +12,8 @@ Also, we used HvPlot to make visualizations for our models and predictions.
 ## LexBot
 
 We formatted a AWS LexBot to help facilitate passing along information to the end-user.  It understands the list of the top 10 REITs, their tickers, and their industry type.
+
+
 ![image](https://user-images.githubusercontent.com/1554573/198415496-7d3d1b8e-e2a1-4249-861e-2b60285fb472.png)
 
 
