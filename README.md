@@ -1,5 +1,7 @@
 # group-3-project-2
 
+![image](https://user-images.githubusercontent.com/1554573/198462508-d5a63fec-dbb7-454c-815a-9e9970c060bb.png)
+
 ## The REIT Prophets ##
 
 With this project we wanted to explore Real Estate Investment Trusts (REITs).
